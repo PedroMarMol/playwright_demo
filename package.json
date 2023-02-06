@@ -1,0 +1,21 @@
+{
+  "name": "playwright_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroMarMol/playwright_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroMarMol/playwright_demo/issues"
+  },
+  "homepage": "https://github.com/PedroMarMol/playwright_demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
